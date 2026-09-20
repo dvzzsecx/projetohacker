@@ -13,4 +13,8 @@
 - CFAA (Computer Fraud and Abuse Act) regula acesso não autorizado a computador, nos Estados Unidos.
 
 5. Qual lei Lei 14.155/2021 alterou?
-- Endureceu penas de crimes informáticos e estelionato eletrônico
+- Endureceu penas de crimes informáticos e estelionato eletrônic
+
+6. Pela lei, é permitido reportar vulnerabilidades no sistema sem autorização?
+- Não, a lei brasileira não dá aval explícito para testar ou buscar vulnerabilidades em sistemas de terceiros
+ sem autorização prévia. 
